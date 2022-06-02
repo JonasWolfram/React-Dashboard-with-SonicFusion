@@ -527,11 +527,11 @@ export const links = [
         icon: <AiOutlineShoppingCart />,
       },
       {
-        name: "employees",
+        name: "angestellte",
         icon: <IoMdContacts />,
       },
       {
-        name: "customers",
+        name: "kunden",
         icon: <RiContactsLine />,
       },
     ],
@@ -540,7 +540,7 @@ export const links = [
     title: "Apps",
     links: [
       {
-        name: "calendar",
+        name: "kalendar",
         icon: <AiOutlineCalendar />,
       },
       {
